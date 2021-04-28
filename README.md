@@ -2,7 +2,7 @@
 ### Hi there 👋 I am a master's degree student at Kyungpook National University.
 I am majoring in particle physics experiments. I'm searching for Dark Matter that is indicated to be the dominant part of the mass of the Universe by astrophysical measurements. For this, I'm using the big data from collider experiment in [CERN](https://home.cern/), and also I have been studying data science and computer science since 2017 to apply those skills to my research.
 
-- 🔭 My mainly using programming language is Python.
+- 🔭 I mainly program in Python.
 - 🌱 I'm currently learning Machine Learning Techniques.
 - 📫 How to reach me: jysin0102@gmail.com  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jysin0102@gmail.com)](mailto:jysin0102@gmail.com)
 <!--
