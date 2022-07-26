@@ -2,8 +2,8 @@
 ### Hi there 👋 
 
 - 🔭 I mainly program in Python.
-- 🌱 I'm currently learning Generative Deep Learning.
-- 📫 How to reach me: jysin0102@gmail.com  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jysin0102@gmail.com)](mailto:jysin0102@gmail.com)
+- 🌱 I'm currently learning Anomaly Detection models.
+- 📫 How to reach me: jishin@pleiony.com
 <!--
 **JinyongShin/JinyongShin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
