@@ -2,8 +2,8 @@
 ### Hi there 👋 
 
 - 🔭 I mainly program in Python.
-- 🌱 I'm currently learning Anomaly Detection models.
-- 📫 How to reach me: jishin@pleiony.com
+- 🌱 I'm currently learning Time series modeling.
+- 📫 How to reach me: jysin0102@gmail.com
 <!--
 **JinyongShin/JinyongShin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
