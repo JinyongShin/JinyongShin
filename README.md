@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jinyong%20Shin&fontSize=50)
 ### Hi there 👋 
 
 - 🔭 I mainly program in Python.
