@@ -1,7 +1,12 @@
 ### Hi there 👋 
 
 - 🔭 I mainly program in Python.
-- 🌱 I'm currently learning Deep Learning based Time series modeling, AI Agent Development, and A2A protocol.
+
+- 🌱 I'm currently learning
+  - Deep Learning based Time series modeling
+  - AI Agent Development
+  - A2A protocol
+
 - 📫 How to reach me: jysin0102@gmail.com
 <!--
 **JinyongShin/JinyongShin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
