@@ -3,8 +3,12 @@
 - 🔭 I mainly program in Python.
 
 - 🌱 I'm currently learning
-  - Deep Learning based Time series modeling
+  - Deep Learning based Time series Analysis
+    - Anomaly Detection
+    - Time series forecasting
+    - etc
   - AI Agent Development
+    - GoogleADK
   - A2A protocol
 
 - 📫 How to reach me: jysin0102@gmail.com
