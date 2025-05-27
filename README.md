@@ -7,6 +7,7 @@
     - Anomaly Detection
     - Time series forecasting
     - etc
+  - Reinforcement Learning
   - AI Agent Development
     - GoogleADK
   - A2A protocol
